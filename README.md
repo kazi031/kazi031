@@ -32,11 +32,3 @@ Out-of-the-box thinking Computer Science Engineer with a wide variety of knowled
 <img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 <br />
-
-#
-
-#
-
-
-#
-
