@@ -1,6 +1,6 @@
 # 👋 Kazi Rafid Raiyan
 
-**`Machine Learning Developer`**
+**`Machine Learning / Big Data Analytics`**
 
 Out-of-the-box thinking Computer Science Engineer with a wide variety of knowledge both in the field of CS and outside of CS. Proficient in designing databases with MySQL and Oracle, analyzing and visualizing data using Excel and PoweBI with having prior experience in project management. Good in communication and identifying problems by assessing their consequences with feasibility analysis. Looking for an opportunity to polish both my technical and impersonal skills by learning and developing proper set of expertise through creativity and hard work.
 
