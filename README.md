@@ -1,4 +1,4 @@
-# 👋 Kazi Rafid Raiyan
+# Hi, 👋 I'm Kazi Rafid Raiyan
 
 **`Machine Learning / Big Data Analytics`**
 
