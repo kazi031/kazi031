@@ -1,13 +1,13 @@
 
-<img align="center" alt="Coding" width = "1000" height="350" src="https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif">
+<img align="center" alt="Coding" width = "1000" height="350" src="https://wildcat.vc/wp-content/uploads/2017/03/C3IoT-banner-blue.png">
 
 <h1 align="center">Hi 👋, I'm Kazi Rafid Raiyan</h1>
-<h3 align="center">Machine Learning / Big Data Analytics</h3>
+<h3 align="center">Machine Learning / IoT Developer</h3>
 
 
 Hi there! I'm an aspiring Computer Science Graduate with expertise in developing and deploying scalable data-driven solutions. With a background in computer science and mathematics, I have experience in designing and implementing algorithms, statistical models, and deep learning architectures for various applications. My expertise includes data preprocessing, feature engineering, model selection, hyperparameter tuning, and performance optimization. I'm skilled in programming languages such as Python, R, and SQL, and have hands-on experience with various ML frameworks, including TensorFlow, Keras, PyTorch, and Scikit-learn having a passion for transforming complex data sets into compelling and insightful visualizations using various data visualization tools such as Tableau, Power BI, and Excel.  Additionally, I have an expertise in designing and implementing connected systems that leverage the Internet of Things (IoT). I'm passionate about staying up-to-date with the latest trends and technologies in the IoT space, such as 5G, edge computing, and machine learning.
 
-   <p align="left">
+   <p align="center">
       <a href="https://www.google.com.bd/maps/place/Dhaka/@23.7805733,90.2791952,11z/data=!3m1!4b1!4m5!3m4!1s0x3755b8b087026b81:0x8fa563bbdd5904c2!8m2!3d23.810332!4d90.4125181">
          <img alt="location" title="location" src="https://custom-icon-badges.demolab.com/badge/Dhaka-Bangladesh-purple?style=for-the-badge&logo=location&logoColor=white"/></a> 
     <a href="https://github.com/kazi031?tab=repositories">
