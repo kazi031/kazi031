@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width = "1000" height="350" src="https://wildcat.vc/wp-content/uploads/2017/03/C3IoT-banner-blue.png">
+<img align="center" alt="Coding" width = "1000" height="300" src="https://wildcat.vc/wp-content/uploads/2017/03/C3IoT-banner-blue.png">
 
 <h1 align="center">Hi 👋, I'm Kazi Rafid Raiyan</h1>
 <h3 align="center">Machine Learning / IoT Developer</h3>
